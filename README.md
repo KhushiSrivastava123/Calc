@@ -1,10 +1,13 @@
 Calculator App
+
 Welcome to the Calculator App – a sleek and feature-rich calculator built with Python and Tkinter. Perform basic and advanced mathematical operations with ease!
 
 Overview
+
 The Calculator App is a versatile desktop application designed to simplify your calculations. With a clean and intuitive user interface, this calculator provides a range of functions, from simple arithmetic to advanced operations.
 
 Features
+
 User-Friendly Interface: A clean and intuitive interface for hassle-free calculations.
 
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division – the fundamental operations are just a click away.
